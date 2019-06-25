@@ -4314,7 +4314,7 @@ curl -v -X POST \
   },
   "_links": {
     "next": {
-      "name": "verify",
+      "name": "resend",
       "href": "https://{yourOktaDomain}/api/v1/authn/factors/opfh52xcuft3J4uZc0g3/verify",
       "hints": {
         "allow": [
